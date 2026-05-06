@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Mahmoud Rady AbdelAal</h1>
 
 <h3 align="center">
